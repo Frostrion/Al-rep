@@ -1,0 +1,16 @@
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\newapp.exe
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\newapp.deps.json
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\newapp.runtimeconfig.json
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\newapp.runtimeconfig.dev.json
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\newapp.dll
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\ref\newapp.dll
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\bin\Debug\net5.0\newapp.pdb
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.csprojAssemblyReference.cache
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.AssemblyInfoInputs.cache
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.AssemblyInfo.cs
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.csproj.CoreCompileInputs.cache
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.dll
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\ref\newapp.dll
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.pdb
+C:\Users\Frostrion\Desktop\Create with Code-Al\newapp\obj\Debug\net5.0\newapp.genruntimeconfig.cache
